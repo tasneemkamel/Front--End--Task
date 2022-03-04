@@ -1,0 +1,27 @@
+.shape-1{
+    background-color: #eee;
+    border-color: red;
+    border-width: 5px;
+    border-style: solid;
+    outline: 5px black solid;
+    display: inline-block;
+    margin: 10px;
+}
+.shape-2{
+    background-color: #eee;
+    border-color: blue green;
+    border-width: 5px;
+    border-style: solid;
+    outline: 5px black solid;
+    display: inline-block;
+    margin: 10px;
+}
+.shape-3{
+    background-color: #eee;
+    border-color: red green blue yellow;
+    border-width: 5px;
+    border-style: dashed;
+    outline: 5px black solid;
+    display: inline-block;
+    margin: 10px;
+}

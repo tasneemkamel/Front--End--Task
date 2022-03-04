@@ -1,0 +1,33 @@
+/* Any element with class title  
+.title {
+} */
+/* Any element with Id nav 
+#nav {
+} */
+/* for every <div> 
+div {
+} */
+/* for every <h2> 
+h2 {
+} */
+/*----------------------------------------------------------------------------*/
+/* " bad "
+.USERNAME {
+}
+*/
+/* " good "
+.UserName {
+}
+*/
+/* " good "
+.user-name {
+}
+*/
+/* "good "
+.userName {
+}
+*/
+/* " bad "
+.usernameprofile {
+}
+*/
